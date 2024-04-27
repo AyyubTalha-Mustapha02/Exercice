@@ -1,0 +1,137 @@
+.a{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 150px;
+}
+nav{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
+nav h1{
+    margin-left: 40px;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    margin-left: 400px;
+}
+.new{
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+    background-image: url(wrist\ watch\ bg.jpg);
+}
+.new1{
+    width: 50px;
+    margin: 0%;
+    height: 0.2px;
+    margin-top: 40px;
+    border-color: white;
+}
+.b h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 75px;
+}
+.c{
+    display: flex;
+    justify-content: center;
+}
+.c1{
+    border: 2px solid gainsboro;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.c2{
+    border: 2px solid gainsboro;
+    padding: 20px;
+    background-color: aliceblue;
+    margin-left: 20px;
+}
+.d{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.d1{
+    border: 2px solid gainsboro;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.d2{
+    border: 2px solid gainsboro;
+    padding: 20px;
+    background-color: aliceblue;
+    margin-left: 20px;
+}
+.b button{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    margin-left: 600px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.Catalogue{
+    background-color: rgb(206, 221, 216);
+    margin-top: 20p;
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+.Catalogue h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Catalogue ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-left: 400px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+hr{
+    height: 20px;
+    border-width: 1px;
+    border-color: black;
+    align-items: center;
+}
+.new h1{
+    color: white;
+    text-align: center;
+    margin-left: 50PX;
+    padding-left: 50PX;
+}
+.hr1{
+   width: 65px;
+   height: 0.2px;
+   margin: 1%;
+   margin-top: 37px;
+   margin-left: 50PX;
+   padding-left: 50PX;
+}
+.new button{
+    padding: 20px;
+    width: 230px;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: white;
+}
+.b h3{
+text-align: center;
+margin-top:
+}
